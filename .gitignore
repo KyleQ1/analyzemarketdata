@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+full_history.zip
+full_history/
+nasdaq_external_data.csv
+nasdaq_small.csv
+full_history_preprocessed/
+news_data_preprocessed/
